@@ -2,11 +2,9 @@
 
 ![logo](./public/logo.png)
 
-# **Gitwar - Compete with Github**
+# **Github-explore - Compete with Github**
 
-![Version](https://img.shields.io/github/package-json/v/iampavangandhi/Gitwar?color=2948ff&label=Version&style=flat-square) ![License](https://img.shields.io/github/license/iampavangandhi/Gitwar?color=2948ff&label=License&style=flat-square) ![Deployment](https://img.shields.io/github/deployments/iampavangandhi/Gitwar/gitwar?color=2948ff&label=Deployment&style=flat-square) ![Repo Size](https://img.shields.io/github/repo-size/iampavangandhi/Gitwar?color=2948ff&label=Repo%20Size&style=flat-square)
-
-## Website : https://gitwar.herokuapp.com/
+## Website : https://github-explore-v1.herokuapp.com/
 
 ---
 
@@ -14,9 +12,9 @@
 
 <br />
 
-# Gitwar WebApp
+# Github-explore WebApp
 
-> ### Website : https://gitwar.herokuapp.com/
+> ### Website : https://github-explore-v1.herokuapp.com/
 
 ## Features
 
@@ -29,9 +27,9 @@
 - Compete with Friends and Other Github Users
 - View Trending Repos of 5 Different Languages
 
-# Gitwar Score in README
+# Github Score in README
 
-> ### Add Gitwar Score to GitHub Profile README
+> ### Add Gitwhub Score to GitHub Profile README
 >
 > ### Badges are Powered by [Shield.io](https://shields.io/)
 >
