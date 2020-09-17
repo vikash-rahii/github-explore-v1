@@ -38,7 +38,7 @@
 You need to add this in README.md file in your profile repository via Markdown syntax:
 
 ```markdown
-![](https://gitwar.herokuapp.com/badge?username=your-github-username)
+![](https://github-explore-v1.herokuapp.com//badge?username=your-github-username)
 ```
 
 > **NOTE**: Don't forget to replace example `your-github-username` parameter with real value.
