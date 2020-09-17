@@ -1,0 +1,6 @@
+{
+  "name": "github-explore",
+  "description": "github-explore - Compete with Git",
+  "repository": "https://github.com/vikash-rahii-au7/github-explore",
+  "keywords": ["nodejs", "express", "github", "github-api", "github-profile"]
+}
