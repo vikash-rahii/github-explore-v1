@@ -29,11 +29,12 @@
 - Compete with Friends and Other Github Users
 - View Trending Repos of 5 Different Languages
 
-
 # Gitwar Score in README
 
 > ### Add Gitwar Score to GitHub Profile README
+>
 > ### Badges are Powered by [Shield.io](https://shields.io/)
+>
 > ### Check `helper/calc.js` to Know How Gitwar Score is Calculated
 
 You need to add this in README.md file in your profile repository via Markdown syntax:
@@ -94,7 +95,7 @@ The following styles are available (`flat` is the default).
 
 ### Label
 
-You can overwrite default `Gitwar Score` text with your own label.
+You can overwrite default `Github Score` text with your own label.
 
 ![](https://img.shields.io/static/v1?label=GITWAR+PROFILE+SCORE&message=1234567890&color=007ec6)
 
@@ -131,19 +132,7 @@ npm run dev
 
 #### Special Thanks to [Huchenme](https://github.com/huchenme) for the [Github Trending Api](https://github.com/huchenme/github-trending-api)
 
-## Deployment
-
-#### Deploy it on your own Heroku Dyno to avoid downtime.
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-## Contributing
-
-Feel free to dive in! [Open an issue](https://github.com/iampavangandhi/Gitwar/issues/new) or submit PRs
-
-## License
-
-[MIT](LICENSE) © Pavan Gandhi
+[MIT](LICENSE) © vikash rahii
 
 ---
 

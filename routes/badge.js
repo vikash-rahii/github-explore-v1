@@ -1,7 +1,5 @@
 // Badge Route
 
-const HOST = "gitwar.herokuapp.com";
-
 const express = require("express");
 const router = express.Router();
 
